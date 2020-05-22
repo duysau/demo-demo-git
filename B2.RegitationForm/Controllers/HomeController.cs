@@ -25,6 +25,7 @@ namespace B2.RegitationForm.Controllers
 
         public IActionResult Privacy()
         {
+            Console.WriteLine("ádasdasdad");
             return View();
         }
 
